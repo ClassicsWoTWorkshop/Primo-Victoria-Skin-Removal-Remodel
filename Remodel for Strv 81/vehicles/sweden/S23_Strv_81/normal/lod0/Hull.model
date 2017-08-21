@@ -1,0 +1,13 @@
+<hull.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.69392 -0.817746 -3.91636</min>
+    <max>1.69241 0.732454 3.65401</max>
+  </visibilityBox>
+  <projAreaCoeff>	1	</projAreaCoeff>
+  <parent>vehicles/sweden/S23_Strv_81/normal/lod1/Hull</parent>
+  <extent>	32	</extent>
+  <nodefullVisual>vehicles/sweden/S23_Strv_81/normal/lod0/Hull</nodefullVisual>
+</hull.model>
