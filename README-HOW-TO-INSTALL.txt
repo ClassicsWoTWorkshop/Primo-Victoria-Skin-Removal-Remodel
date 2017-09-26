@@ -4,4 +4,4 @@ Thank you for downloading! To install, drag both .wotmod files from the option f
 
 Enjoy!
 
-- FastestClassic
+Made by FastestClassic.
